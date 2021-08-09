@@ -8,7 +8,7 @@ I self-taught programming. I know Javascript and Python. Learning Java, C++, C# 
 ![Overall stats](https://github-readme-stats.vercel.app/api?username=CycPhoenix&theme=yeblu&show_icons=true&count_private=true)
 
 <!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CycPhoenix&theme=yeblu&show_icons=true&count_private=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CycPhoenix)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CycPhoenix)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
