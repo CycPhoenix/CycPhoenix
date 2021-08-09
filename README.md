@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! I'm CycPhoenix.
+I self-taught programming. I know Javascript and Python. Learning Java, C++, C# etc.
+- [YouTube](https://www.youtube.com/channel/UCYy7MKw-f1vZiU4izz9WQOg)
+- [Twitch](https://www.twitch.tv/cycphoenix)
+- [Twitter](https://twitter.com/CycPhoenix_)
+
+### Github Stats
+![Overall stats](https://github-readme-stats.vercel.app/api?username=CycPhoenix&theme=yeblu&show_icons=true&count_private=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CycPhoenix&theme=yeblu&show_icons=true&count_private=true)
 
 <!--
 **CycPhoenix/CycPhoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
