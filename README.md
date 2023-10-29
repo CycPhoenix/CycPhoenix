@@ -1,5 +1,5 @@
 ### Hi there! I'm CycPhoenix.
-I self-taught programming. I know Javascript and Python. Learning Java, C++, C# etc.
+I self-taught programmer. I know Javascript and Python. Learning Java, C++, C# etc.
 - [YouTube](https://www.youtube.com/channel/UCYy7MKw-f1vZiU4izz9WQOg)
 - [Twitch](https://www.twitch.tv/cycphoenix)
 - [Twitter](https://twitter.com/CycPhoenix_)
