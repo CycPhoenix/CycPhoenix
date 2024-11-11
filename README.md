@@ -3,7 +3,7 @@ Hi there! 👋 I'm CycPhoenix
 🎓 **1st-Year Bachelor of Computer Science (Hons) in Artificial Intelligence**
 I self-taught programmer and a first-year university student specialising in Artificial Intelligence. Skilled in JavaScript and Python, and currently expanding my knowledge in TypeScript, Jaya, C++, C#.
 
-🔗 [Discord](https://discord.com/invite/dy6FjFG2sd) | [Twitch](https://www.twitch.tv/cycphoenix) |[Twitter](https://twitter.com/CycPhoenix_)
+🔗 [Discord](https://discord.com/invite/dy6FjFG2sd) | [Twitch](https://www.twitch.tv/cycphoenix) | [Twitter](https://twitter.com/CycPhoenix_)
 
 ---
 
