@@ -12,7 +12,9 @@ I self-taught programmer and a first-year university student specialising in Art
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cycphoenix&show_icons=true&theme=tokyonight)
 
 <!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CycPhoenix&theme=yeblu&show_icons=true&count_private=true) -->
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=CycPhoenix&theme=tokyonight)
+🌐 **Languages & Tools**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CycPhoenix&theme=tokyonight)
 
 ---
 
